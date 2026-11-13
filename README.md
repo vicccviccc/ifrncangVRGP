@@ -1,6 +1,6 @@
 # projetos de extensao — ifrn campus canguaretama
 
-ola! eu sou **victor gabriel**, principal colaborador deste projeto web.
+ola! eu sou **victor**, principal colaborador deste projeto web.
 
 este repositorio reune o site que desenvolvi para apresentar tres projetos de extensao do **ifrn campus canguaretama** de forma mais visual, organizada e facil de navegar. a ideia foi transformar informacoes que estavam espalhadas em portais, conversas e registros fotograficos em uma apresentacao digital mais bonita, clara e acessivel.
 
