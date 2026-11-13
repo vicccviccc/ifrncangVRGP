@@ -18,8 +18,6 @@ os tres projetos apresentados sao:
 
 ## meu papel no desenvolvimento
 
-eu, **victor gabriel**, fui o principal responsavel pela construcao deste projeto.
-
 atuei principalmente na organizacao da proposta, na definicao do que seria mostrado em cada pagina, na conducao das alteracoes visuais, na revisao do conteudo e no acompanhamento de toda a montagem do site ate chegar nesta versao final.
 
 alem disso, acompanhei as decisoes de design, a escolha das informacoes principais, a integracao das fotografias reais e a estruturacao da apresentacao para o github e para a entrega academica.
