@@ -30,7 +30,7 @@ embora eu tenha sido o principal colaborador no desenvolvimento, este trabalho t
 - **raykkonen ribeiro**
 - **pedro guilherme**
 
-cada um contribuiu para o desenvolvimento geral do trabalho, ajudando no levantamento de informacoes, no compartilhamento de registros e no processo de construcao da apresentacao.
+cada um contribuiu para o desenvolvimento geral do trabalho / trabalho nos codigos do projeto, ajudando no levantamento de informacoes, no compartilhamento de registros e no processo de construcao da apresentacao.
 
 ## como o site foi organizado
 
