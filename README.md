@@ -57,31 +57,6 @@ para construir as paginas, foram utilizados:
 - informacoes obtidas em conversas e entrevistas com responsaveis e participantes;
 - organizacao e adaptacao do conteudo para uma linguagem mais visual e acessivel.
 
-## destaques desta versao
-
-esta versao inclui:
-
-- tres paginas completas e integradas na home;
-- creditos mantidos na pagina inicial;
-- pagina do conecti com maior presenca do verde institucional do projeto;
-- pagina do projeto 3 com identidade propria;
-- ampliacao de fotografias em galeria;
-- nova cobertura do evento **batalha da paz** dentro da pagina do **giras da paz**.
-
-## sobre a batalha da paz
-
-na pagina do giras da paz, foi adicionada uma nova parte dedicada ao evento **batalha da paz**, realizado pelo projeto em parceria com o **neabi**.
-
-essa secao apresenta o contexto do encontro, os convidados, o objetivo da atividade, o envolvimento dos estudantes e fotografias reais do evento, incluindo a roda de conversa, o auditório, a arte produzida e os trofeus.
-
-## como visualizar
-
-basta extrair a pasta do projeto e abrir o arquivo:
-
-`ifrn-extensao-site/index.html`
-
-em qualquer navegador moderno.
-
 ## consideracoes finais
 
 este repositorio representa nao apenas um site, mas uma forma de apresentar melhor os projetos de extensao do campus, valorizando o conteudo, os participantes e a identidade de cada iniciativa.
