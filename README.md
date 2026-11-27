@@ -1,4 +1,4 @@
-# projetos de extensao — ifrn campus canguaretama
+# projetos de extensao - ifrn campus canguaretama
 
 ola! eu sou **victor**, principal colaborador deste projeto web.
 
